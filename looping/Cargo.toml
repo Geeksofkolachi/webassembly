@@ -1,0 +1,8 @@
+[package]
+name = "looping"
+version = "0.1.0"
+authors = ["Muhammad Tahir <mtahir.ps@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
